@@ -1,5 +1,5 @@
 variable "var_project" {
-        default = "nameproject" 
+        default = "nameproject" // Inserir nome do seu projeto
 }
 
 variable "var_region" {
